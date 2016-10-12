@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429554408 source:c:\users\andrea\documents\škola\c++\hra\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
